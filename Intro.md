@@ -2,7 +2,7 @@
 * Student Number : s3884359 
 * Student Email : s3884359@student.rmit.edu.au
 
-
+![ME](Picture1.jpg)
 
 # Intro
 I'm from New Zealand. I have studied video game development in NZ. I have previously lived in Japan. I used to play rugby league. I also trained in boxing, kickboxing, judo and Brazilian Jiu Jitsu. I enjoy watching combat sports including boxing, MMA, kickboxing, and sumo. I also enjoy watching rugby league and support the New Zealand Warriors. 
@@ -14,15 +14,20 @@ I started my interest in IT when I got my first game console. It was a SEGA mast
  
 https://rakuten.wd1.myworkdayjobs.com/en-US/RakutenInc/job/Tokyo-Japan/Mobile-App-Engineer-Android-Osaka-branch---ECID--Rakuten-Car-Service-_1003684-120
 
+![Job](Picture2.jpg)
+
 My ideal job would be a Mobile App Engineer. This job is providing updates for Rakuten's Car Service apps. The job requires knowledge of coding mobile apps and updating and improving user interfaces. This job interests me as it involves an app used in the sale of cars in Japan. Coding and designing taking into account the laws and regulations around vehicles in Japan interests me.
 
 I have worked on mobile apps and have experience coding in a professional environment. I also have experience using agile methodology. The job is located in Japan and requires Japanese Language Proficient Test level 3(JLPT3). I am currently studying Japanese to acquire JLPT3 and hope to continue and acquire JLPT1.
 
 ## Myers-Briggs Test
+![MyersBriggs](Picture3.jpg)
 
 My result in a Myers-Briggs test was Protagonist (ENFJ).  This type of person finds it natural to work together towards a common goal and is skilled at motivating people towards the goal. Protagonist's are not afraid to take up new challenges and push towards becoming better themselves. 
 
 ## Learning Style
+
+![LearningStyle](Picture4.jpg)
 
 I am a visual learner. This means I learn and remember things by sight. Visual Learners learn best when using methods that are primarily visual such as reading or pictures.
 
@@ -30,7 +35,7 @@ I am a visual learner. This means I learn and remember things by sight. Visual L
 
 
 ## Big 5 Personality test.
-
+![Big5Part1](Picture5.jpg) ![Big5Part2](Picture6.jpg)
 
 The Big 5 personality test shows that I am good at planning and using logic to work within systems and teams for the benefit of the business or project. This helps with seeing the bigger picture and making sure projects are finished on time and within budget. 
 
@@ -49,7 +54,7 @@ Snakes is interesting because while the game is easy to learn adding other playe
 
 Players start at opposite ends of a square(see diagram 1). The snakes will then start moving forward.
 
- Diagram 1:
+ Diagram 1: ![Diagram1](Picture7.jpg)
 
 Players cannot stop the forward movement. Players can turn their snake left or right and the snake will then continue to move. If a players snake hits a wall or another snake that player is eliminated and the game continues until 1 player is remaining. The final player remaining is the winner of that round. 
 
@@ -57,7 +62,7 @@ As players collect pellets their snake will grow. This will make it easier to el
 
 There will be at least 3 levels. The first is the original square. This is the basic level with no special features. The second level will leave spaces open where the snakes enter the square. If a snake enters the space they will appear on the opposite side of the square. Players can use this to avoid others or entrap others. The third level will have 4 smaller squares inside the original square(see Diagram 2). If a snake enters one of these squares they will randomly exit either another square or one of the 4 sides. This is the most complex stage.
 
-Diagram 2:
+Diagram 2: ![Diagram2](Picture8.jpg)
 
 ## Tool and Technology.
 
